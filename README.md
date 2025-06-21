@@ -1,4 +1,5 @@
 sudo apt-get update
+
 sudo apt-get install -y python3-venv python3-pip git protobuf-compiler
 git clone https://github.com/LeelaChessZero/lczero-training.git
 cd lczero-training
